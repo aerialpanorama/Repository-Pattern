@@ -1,0 +1,6 @@
+D:\Users\aeria\source\repos\CSharpFundamentals\06_RepositoryPattern_Repository\bin\Debug\06_RepositoryPattern_Repository.dll
+D:\Users\aeria\source\repos\CSharpFundamentals\06_RepositoryPattern_Repository\bin\Debug\06_RepositoryPattern_Repository.pdb
+D:\Users\aeria\source\repos\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\06_RepositoryPattern_Repository.csprojAssemblyReference.cache
+D:\Users\aeria\source\repos\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\06_RepositoryPattern_Repository.csproj.CoreCompileInputs.cache
+D:\Users\aeria\source\repos\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\06_RepositoryPattern_Repository.dll
+D:\Users\aeria\source\repos\CSharpFundamentals\06_RepositoryPattern_Repository\obj\Debug\06_RepositoryPattern_Repository.pdb
